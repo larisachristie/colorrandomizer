@@ -11,6 +11,10 @@ class App extends React.Component {
 
   render() {
     return (
+      <main style={{ backgroundColor: '#d1001c' }}>
+        <input type="text" value="#d1001c" />
+        <button type="button" onClick={this.handleClick}>random</button>
+      </main>
     );
   }
 }
