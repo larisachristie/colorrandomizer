@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0;min-width:100vw;min-height:100vh}div#root{min-width:100vw;min-height:100vh}div#root,main{display:flex;justify-content:center;align-items:center}main{width:90vw;max-width:600px;height:90vw;max-height:600px;text-align:center;border:1px solid #000;border-radius:5px;flex-direction:column}button,input{font-size:2rem;text-align:center}button{margin:1rem;border-radius:5px}
+/*# sourceMappingURL=main.1506d0ad.chunk.css.map */
